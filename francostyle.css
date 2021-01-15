@@ -1,0 +1,92 @@
+body 
+{
+    margin:0;
+    font-family: 'Crimson Text', serif;
+}
+
+h2 
+{
+    font-family: 'Lobster', cursive;
+}
+h3 
+{
+    font-family: 'Volkhov', serif;
+}
+
+.presentation 
+{
+    display:block;
+    margin-top:0;
+    font-family: "Merienda One", cursive;
+    padding:5%;
+    
+}
+.profession 
+{
+    display:block;
+    padding:5%;
+    
+    
+}
+.top-container 
+{
+    background-color:#E4F9F5;
+    text-align:center;
+    height:auto;
+    position:relative;
+    
+}
+.middle-container 
+{
+    text-align:center;
+}
+.bottom-container 
+{
+
+}
+.img-mountain 
+{
+
+}
+.img-cloud1 
+{
+    margin-top:7%;
+    position:relative;
+    left:25%;
+}
+.img-cloud2 
+{
+    position:absolute;
+    left:10%;
+}
+.img-profile 
+{
+    width:200px;
+    height:200px;
+    border-radius:100%;
+}
+ 
+.img-java,.img-html5,.img-css,.img-js,.img-sql
+{
+    padding:5%;
+}
+
+.skills 
+{
+    background-color:#2e2d2c;
+    color:white;
+    padding-top:4%;
+    padding-bottom:4%;
+}
+.facebook,.tinder,.instagram,.linkedin
+{
+    padding-left:5%;
+    padding-right:5%;
+}
+.vscode,.github,.aws 
+{
+    padding-left:5%;
+    padding-right:5%;
+    padding-top:4%;
+    padding-bottom:4%;
+}

@@ -2,15 +2,18 @@ body
 {
     margin:0;
     font-family: 'Crimson Text', serif;
+    font-size:2em;
 }
 
 h2 
 {
     font-family: 'Lobster', cursive;
+    
 }
 h3 
 {
     font-family: 'Volkhov', serif;
+    
 }
 
 .presentation 
@@ -19,14 +22,14 @@ h3
     margin-top:0;
     font-family: "Merienda One", cursive;
     padding:5%;
+    font-size:5.625rem;
     
 }
 .profession 
 {
     display:block;
     padding:5%;
-    
-    
+    font-size:4rem;
 }
 .top-container 
 {
@@ -35,11 +38,13 @@ h3
     height:auto;
     position:relative;
     
+    
 }
 .middle-container 
 {
     text-align:center;
 }
+
 .bottom-container 
 {
 
@@ -53,6 +58,7 @@ h3
     margin-top:7%;
     position:relative;
     left:25%;
+    
 }
 .img-cloud2 
 {
@@ -61,14 +67,14 @@ h3
 }
 .img-profile 
 {
-    width:200px;
-    height:200px;
+    width:15rem;
+    height:15rem;
     border-radius:100%;
 }
  
 .img-java,.img-html5,.img-css,.img-js,.img-sql
 {
-    padding:5%;
+    padding:5%;  
 }
 
 .skills 
@@ -90,3 +96,12 @@ h3
     padding-top:4%;
     padding-bottom:4%;
 }
+
+.P1,.P2,.P3,.P4,.P5,.P6,.P7
+{
+    text-align:justify;
+    margin-right:2%;
+    margin-left:2%;
+}
+
+

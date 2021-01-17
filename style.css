@@ -90,6 +90,7 @@ h3
     background:#2e2d2c;
     border-radius:100%;
     padding:1% 1%;
+    margin-bottom:5%;
     
     
 
@@ -115,6 +116,11 @@ h3
     text-align:justify;
     margin-right:15%;
     margin-left:15%;
+    
+}
+.P7 
+{
+    margin-bottom:10%;
 }
 
 .btn 

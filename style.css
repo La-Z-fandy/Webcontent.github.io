@@ -86,13 +86,20 @@ h3
 }
 .facebook,.tinder,.instagram,.linkedin
 {
-    padding-left:5%;
-    padding-right:5%;
+    
+    background:#2e2d2c;
+    border-radius:100%;
+    padding:1% 1%;
+    
+    
+
 }
 .facebook:hover,.tinder:hover,.instagram:hover,.linkedin:hover 
 {
-    background-color:#2e2d2c;
-    background-image:-webkit-radial-gradient()
+    background:#2e2d2c;
+    background-image:linear-gradient (#c3f7fa,#E4F9F5);
+    border-radius:20%;
+    
     
 }
 .vscode,.github,.aws 
